@@ -1,4 +1,5 @@
 cout << "Aitsaam, 24-ST_008";
+ subtraction
 multiplication
  division
 cout << "Division of a and b is " << (a / b);
@@ -8,3 +9,6 @@ cout << "Multiplication of a and b is " << (a * b);
 
 cout << "Subtraction of a and b is " << (a - b);
  subtraction
+
+cout << "Addition of a and b is " << (a + b);
+ addition

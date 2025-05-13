@@ -1,2 +1,6 @@
 cout << "Aitsaam, 24-ST_008";
+ division
+cout << "Division of a and b is " << (a / b);
+
 cout << "Multiplication of a and b is " << (a * b);
+ multiplication

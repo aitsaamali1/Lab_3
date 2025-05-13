@@ -1,1 +1,2 @@
 cout << "Aitsaam, 24-ST_008";
+cout << "Subtraction of a and b is " << (a - b);
